@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/athlonstudio/Robot-Of-Holding_Studio-Plugins/main/images/studio-plugins.svg?token=GHSAT0AAAAAACPFF45T3Q4BAJBADBUPO65YZP3CUDQ)
+![Primary logo](https://github.com/user-attachments/assets/cb0e2d8a-90f4-4bb0-a813-31e578aaf68f)
+
 # Robot Of Holding
 An Athlon Studio Plugin to improve the way we store links with external clients. 
 
